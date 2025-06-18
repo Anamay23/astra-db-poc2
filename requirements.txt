@@ -1,0 +1,5 @@
+astrapy
+python-dotenv
+openai
+pandas
+streamlit
